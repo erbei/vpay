@@ -43,7 +43,7 @@
                     <p class="character">JKL</p>
                 </li>
                 <li @click="onKeyboard(6)">
-                    <p class="num"><strong>1</strong></p>
+                    <p class="num"><strong>6</strong></p>
                     <p class="character">MNO</p>
                 </li>
                 <li @click="onKeyboard(7)">
